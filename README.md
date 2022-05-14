@@ -1,2 +1,2 @@
 # pyladies-workshop
-Testovací depozitář
+Testovací repozitář
